@@ -20,10 +20,14 @@ and [2017259](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2017259).
 ## Participants 
 
 Bahareh Dokhaei 
-Amirhosein Vakili
+<<<<<<< HEAD
+Amir Vakili
 
 ## All right reserved
 
+=======
+Amir Vakili
+>>>>>>> amir
 =======
 ## this is an edit
 >>>>>>> 97611f49079756564e8f408a372412edd99a7981
