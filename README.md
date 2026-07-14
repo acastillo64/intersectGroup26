@@ -16,5 +16,9 @@ The dates so far have been:
 The INTERSECT project is supported by NSF awards [2017424](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2017424)
 and [2017259](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2017259).
 
+<<<<<<< HEAD
 ## Participants 
 Bahareh Dokhaei 
+=======
+## this is an edit
+>>>>>>> 97611f49079756564e8f408a372412edd99a7981
